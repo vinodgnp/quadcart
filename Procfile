@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar web/target/quadcart-web-0.1-SNAPSHOT-war-exec.jar --httpPort $PORT
+web: java $JAVA_OPTS -jar web/target/dependency/webapp-runner.jar --port $PORT target/*.war
