@@ -38,3 +38,14 @@ Use the below command to run the selenium suite. Make sure the application is up
 ### Demo
 
 Too lazy to start the application ? Then see it in action here: [quadcart.srid.in](http://quadcart.srid.in)
+
+### Further improvements:
+
+Complete flow : show the products, search and place order and complete
+Add transaction management
+Use reactjs
+Rewrite the app in java 8
+Use spring boot
+Get it deployed in one or 2 cloud servers
+Look back the selenium testing
+
