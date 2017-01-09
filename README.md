@@ -41,11 +41,11 @@ Too lazy to start the application ? Then see it in action here: [quadcart.srid.i
 
 ### Further improvements:
 
-1.Complete flow : show the products, search and place order and complete
-2.Add transaction management
-3.Use reactjs
-4.Rewrite the app in java 8
-5.Use spring boot
-6.Get it deployed in one or 2 cloud servers
-7.Look back the selenium testing
+1. Complete flow : show the products, search and place order and complete
+2. Add transaction management
+3. Use reactjs
+4. Rewrite the app in java 8
+5. Use spring boot
+6. Get it deployed in one or 2 cloud servers
+7. Look back the selenium testing
 
