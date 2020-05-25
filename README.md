@@ -1,4 +1,5 @@
-quadcart
+quadcart 
+[![Build Status](https://dev.azure.com/v-cog/QuadCart/_apis/build/status/vinodgnp.quadcart?branchName=master)](https://dev.azure.com/v-cog/QuadCart/_build/latest?definitionId=2&branchName=master)
 ========
 
 A simple shopping cart application. This application can be used as a reference for an enterprise Java application.
