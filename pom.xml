@@ -7,7 +7,12 @@
 	<version>0.1-SNAPSHOT</version>
 	<name>quadcart</name>
 	<description>Quardcart a simple cart application built</description>
-
+	<distributionManagement>
+		<repository>
+			<id>v-cog-feed</id>
+			<url>https://pkgs.dev.azure.com/v-cog/QuadCart/_packaging/v-cog-feed/maven/v1</url>
+		</repository>
+	</distributionManagement>
 	<profiles>
 		<profile>
 			<id>default</id>
