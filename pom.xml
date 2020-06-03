@@ -8,12 +8,11 @@
 	<name>quadcart</name>
 	<description>Quardcart a simple cart application built</description>
 	<distributionManagement>
-		<repository>
-			<id>test@Local</id>
-  			<url>https://pkgs.dev.azure.com/raboweb/_packaging/test%40Local/maven/v1</url>
- 
-		</repository>
 		
+		<repository>
+			<id>v-cog-feed</id>
+			<url>https://pkgs.dev.azure.com/v-cog/QuadCart/_packaging/v-cog-feed/maven/v1</url>
+		</repository>
 	</distributionManagement>
 	<profiles>
 		<profile>
